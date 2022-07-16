@@ -4,3 +4,5 @@
 https://github.com/alipay/alipay-sdk-php-all
 
 该功能要解决的问题:支付/退款/提现统一使用证书,而不用申请两个应用
+
+如果不需要证书功能:可移步至https://github.com/dedemao/alipay
