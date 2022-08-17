@@ -1,9 +1,5 @@
 <?php
 
-use Common\Logic\CommentLogic;
-use Common\Model\UserWater;
-use Mrstock\Mjc\Http\Request;
-
 class PayLogic
 {
 
